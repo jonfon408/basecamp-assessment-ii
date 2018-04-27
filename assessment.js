@@ -14,7 +14,7 @@ var message = {
 };
 //DON'T TOUCH THE CODE ABOVE
 // CODE HERE
-
+// jkl;jk
 // #4 Create an object called 'adjustCount' and create two methods. One called 'upVote' and one called 'downVote'. upVote should take in a number and add one to it and downVote should take in a number and minus one from it.
 
 // CODE HERE
